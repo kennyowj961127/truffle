@@ -1,0 +1,16 @@
+{
+    "name": "Godzilla Token",
+    "description": "A fierce and powerful creature from the depths of the ocean, Godzilla is a symbol of strength and resilience. This NFT captures the essence of the legendary monster, making it a must-have for collectors and fans alike.",
+    "image": "https://raw.githubusercontent.com/kennyowj961127/truffle/refs/heads/main/asset/godzilla.png",
+    "external_url": "https://github.com/kennyowj961127/truffle/blob/main/asset/godzilla.png",
+    "attributes": [
+        {
+            "trait_type": "Artefact",
+            "value": "Godzilla"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Genesis"
+        }
+    ]
+}
